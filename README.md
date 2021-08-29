@@ -1,2 +1,3 @@
-# Python-Visualization
-파이썬 시각화 모델 배우기 소모임
+> ## Python-Visualization
+
+- 출처: [Pega Devlog's Python (Data Science)](https://jehyunlee.github.io/categories/Python/Data-Science/)
